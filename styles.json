@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "updated": "2026-10-15",
   "styles": [
     {
@@ -757,6 +757,146 @@
       "id": "morning-calm-elegance",
       "modifier": "Generate a morning calm prompt for a very beautiful woman by a bright window, soft diffused daylight, simple elegant attire, tranquil graceful awakening mood",
       "name": "Morning Calm Elegance"
+    },
+    {
+      "id": "kpop-idol-girl",
+      "name": "K-pop Idol Girl",
+      "emoji": "💄",
+      "category": "youth",
+      "modifier": "K-pop idol aesthetic, flawless dewy Korean makeup, glossy lips, soft stage lighting with bokeh, dreamy concert atmosphere, youthful radiant charm"
+    },
+    {
+      "id": "douyin-beauty",
+      "name": "Douyin Beauty",
+      "emoji": "📱",
+      "category": "youth",
+      "modifier": "Douyin beauty trend style, soft filtered glow, delicate Chinese social-media makeup, gentle ring-light catchlights, pastel background, sweet youthful allure"
+    },
+    {
+      "id": "anime-girl",
+      "name": "Anime Girl",
+      "emoji": "🌸",
+      "category": "youth",
+      "modifier": "beautiful anime girl portrait, large expressive eyes, detailed anime shading, flowing hair with highlights, vibrant clean linework, youthful shoujo charm"
+    },
+    {
+      "id": "soft-girl",
+      "name": "Soft Girl",
+      "emoji": "🎀",
+      "category": "youth",
+      "modifier": "soft girl aesthetic, heavy blush and glossy lips, pastel pink tones, cozy bedroom background, plush toys bokeh, tender youthful sweetness"
+    },
+    {
+      "id": "y2k-girl",
+      "name": "Y2K Girl",
+      "emoji": "✨",
+      "category": "youth",
+      "modifier": "Y2K fashion style, glossy 2000s makeup, butterfly clips and tinted sunglasses, metallic pastel backdrop, flash photography vibe, playful retro youth"
+    },
+    {
+      "id": "coquette-girl",
+      "name": "Coquette Girl",
+      "emoji": "🧸",
+      "category": "youth",
+      "modifier": "coquette aesthetic, ribbons and lace details, romantic soft focus, vintage floral background, delicate feminine grace, dreamy youthful romance"
+    },
+    {
+      "id": "streetwear-girl",
+      "name": "Streetwear Girl",
+      "emoji": "🛹",
+      "category": "youth",
+      "modifier": "urban streetwear fashion, oversized hoodie and sneakers, graffiti wall background, golden-hour city light, confident youthful edge"
+    },
+    {
+      "id": "fairy-core",
+      "name": "Fairy Core",
+      "emoji": "🧚",
+      "category": "youth",
+      "modifier": "fairycore aesthetic, flower crown and flowing dress, sunlit meadow with floating petals, ethereal glow, magical youthful innocence"
+    },
+    {
+      "id": "princess-glam",
+      "name": "Princess Glam",
+      "emoji": "👑",
+      "category": "youth",
+      "modifier": "princess glamour, elegant gown and sparkling jewelry, grand ballroom bokeh, soft golden light, regal youthful elegance"
+    },
+    {
+      "id": "ulzzang-student",
+      "name": "Ulzzang Student",
+      "emoji": "🎓",
+      "category": "youth",
+      "modifier": "Korean ulzzang style, natural student makeup, casual knit and school-inspired outfit, bright cafe background, fresh youthful clarity"
+    },
+    {
+      "id": "kpop-idol-boy",
+      "name": "K-pop Idol Boy",
+      "emoji": "🎤",
+      "category": "youth",
+      "modifier": "K-pop male idol aesthetic, sharp styled hair, flawless skin, dramatic stage lighting, confident charismatic gaze, youthful star power"
+    },
+    {
+      "id": "anime-boy",
+      "name": "Anime Boy",
+      "emoji": "⚔️",
+      "category": "youth",
+      "modifier": "cool anime boy portrait, sharp detailed eyes, dynamic anime shading, wind-swept hair, dramatic lighting, youthful shonen energy"
+    },
+    {
+      "id": "streetwear-boy",
+      "name": "Streetwear Boy",
+      "emoji": "🏀",
+      "category": "youth",
+      "modifier": "hip-hop streetwear style, baggy fit and chain accessories, urban night background with neon, confident youthful swagger"
+    },
+    {
+      "id": "esports-gamer",
+      "name": "Esports Gamer",
+      "emoji": "🎮",
+      "category": "youth",
+      "modifier": "esports gamer aesthetic, glowing RGB headset, dramatic monitor light on face, dark gaming room, focused competitive intensity, youthful energy"
+    },
+    {
+      "id": "footballer",
+      "name": "Footballer",
+      "emoji": "⚽",
+      "category": "youth",
+      "modifier": "footballer portrait, athletic kit, stadium floodlights, dynamic action energy, sweat-glistened determination, youthful sporting spirit"
+    },
+    {
+      "id": "biker-boy",
+      "name": "Biker Boy",
+      "emoji": "🏍️",
+      "category": "youth",
+      "modifier": "cool motorbike rider, leather jacket, sunset highway background, wind-blown hair, cinematic rim light, rebellious youthful freedom"
+    },
+    {
+      "id": "retro-cool",
+      "name": "Retro Cool",
+      "emoji": "📼",
+      "category": "youth",
+      "modifier": "90s retro cool style, vintage film grain, denim jacket, old-town street background, nostalgic youthful charm"
+    },
+    {
+      "id": "rockstar",
+      "name": "Rockstar",
+      "emoji": "🎸",
+      "category": "youth",
+      "modifier": "rockstar aesthetic, electric guitar, concert stage lights and smoke, dramatic spotlight, wild youthful passion"
+    },
+    {
+      "id": "thai-drama-star",
+      "name": "Thai Drama Star",
+      "emoji": "🎭",
+      "category": "youth",
+      "modifier": "Thai lakorn star look, polished leading-man styling, soft romantic lighting, elegant modern backdrop, charming youthful romance"
+    },
+    {
+      "id": "dark-street",
+      "name": "Dark Street",
+      "emoji": "🖤",
+      "category": "youth",
+      "modifier": "dark street aesthetic, black outfit, moody night alley with neon reflections, cinematic shadows, mysterious youthful cool"
     }
   ]
 }
