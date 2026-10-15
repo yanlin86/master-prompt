@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "updated": "2026-10-15",
   "styles": [
     {
@@ -1002,6 +1002,13 @@
       "emoji": "📐",
       "category": "mockup",
       "modifier": "3D rendered floating smartphone, the screenshot on the screen, dynamic tilted angle, soft realistic shadows, minimal pastel studio background, sleek tech aesthetic"
+    },
+    {
+      "id": "phone-3d-dark",
+      "name": "Phone 3D Dark",
+      "emoji": "🌑",
+      "category": "mockup",
+      "modifier": "premium 3D smartphone product render on dark background, the screenshot displayed on the glowing phone screen, phone shown at a slight angle, dramatic studio rim lighting, deep black backdrop, high-end tech advertisement aesthetic"
     }
   ]
 }
