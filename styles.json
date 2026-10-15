@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "updated": "2026-10-15",
   "styles": [
     {
@@ -897,6 +897,76 @@
       "emoji": "🖤",
       "category": "youth",
       "modifier": "dark street aesthetic, black outfit, moody night alley with neon reflections, cinematic shadows, mysterious youthful cool"
+    },
+    {
+      "id": "gta-loading",
+      "name": "GTA Loading Screen",
+      "emoji": "🎮",
+      "category": "trending",
+      "modifier": "GTA loading screen art style, bold comic outlines, cel-shaded 3D render, vibrant saturated colors, dramatic illustrated composition, video-game key art energy"
+    },
+    {
+      "id": "pixar-3d",
+      "name": "Pixar 3D",
+      "emoji": "🧸",
+      "category": "trending",
+      "modifier": "Pixar-style 3D animation render, big expressive eyes, soft subsurface scattering skin, stylized proportions, warm cinematic lighting, family-film charm"
+    },
+    {
+      "id": "lego-figure",
+      "name": "Lego Figure",
+      "emoji": "🟨",
+      "category": "trending",
+      "modifier": "Lego minifigure style, blocky yellow figure with printed face details, plastic brick textures, playful studio lighting, toy-photography composition"
+    },
+    {
+      "id": "simpsons-style",
+      "name": "Simpsons Style",
+      "emoji": "📺",
+      "category": "trending",
+      "modifier": "Simpsons cartoon style, yellow skin, overbite smile, bulging white eyes, flat 2D animation colors, Springfield background, classic TV cartoon humor"
+    },
+    {
+      "id": "clay-3d",
+      "name": "Clay 3D",
+      "emoji": "🏺",
+      "category": "trending",
+      "modifier": "handmade clay 3D render, visible fingerprint textures, soft stop-motion look, matte pastel colors, cozy handcrafted warmth, artisan toy aesthetic"
+    },
+    {
+      "id": "wes-anderson",
+      "name": "Wes Anderson",
+      "emoji": "🎞️",
+      "category": "trending",
+      "modifier": "Wes Anderson film still, perfectly symmetrical composition, pastel color palette, vintage props and typography, deadpan whimsical mood, meticulous production design"
+    },
+    {
+      "id": "album-cover",
+      "name": "Album Cover",
+      "emoji": "💿",
+      "category": "trending",
+      "modifier": "vinyl album cover art, bold graphic design, striking portrait composition, retro typography space, moody music-industry aesthetic, iconic cover energy"
+    },
+    {
+      "id": "barbiecore",
+      "name": "Barbiecore",
+      "emoji": "💖",
+      "category": "trending",
+      "modifier": "Barbiecore aesthetic, hot pink glamour, glossy plastic-fantastic shine, dreamhouse pastel background, playful doll-like perfection, fun fearless sparkle"
+    },
+    {
+      "id": "clean-girl",
+      "name": "Clean Girl",
+      "emoji": "🧼",
+      "category": "trending",
+      "modifier": "clean girl aesthetic, slicked-back bun, dewy minimal makeup, gold hoop earrings, fresh morning light, effortless polished glow, that-girl energy"
+    },
+    {
+      "id": "frutiger-aero",
+      "name": "Frutiger Aero",
+      "emoji": "🫧",
+      "category": "trending",
+      "modifier": "Frutiger Aero aesthetic, glossy aqua glass textures, lens flares and water droplets, bright optimistic tech optimism, sleek 2000s futurism, clean digital shine"
     }
   ]
 }
