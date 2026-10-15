@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "updated": "2026-10-15",
   "styles": [
     {
@@ -967,6 +967,41 @@
       "emoji": "🫧",
       "category": "trending",
       "modifier": "Frutiger Aero aesthetic, glossy aqua glass textures, lens flares and water droplets, bright optimistic tech optimism, sleek 2000s futurism, clean digital shine"
+    },
+    {
+      "id": "phone-mockup-studio",
+      "name": "Phone Mockup Studio",
+      "emoji": "📱",
+      "category": "mockup",
+      "modifier": "realistic smartphone device mockup, the screenshot displayed full-bleed on the phone screen, phone floating at a slight three-quarter angle, soft studio lighting, clean minimal gradient background, premium product photography"
+    },
+    {
+      "id": "phone-in-hand",
+      "name": "Phone In Hand",
+      "emoji": "🤳",
+      "category": "mockup",
+      "modifier": "lifestyle photo of a hand holding a smartphone outdoors, the screenshot visible on the screen, natural daylight, softly blurred street background, realistic skin texture, candid everyday photography"
+    },
+    {
+      "id": "phone-flatlay",
+      "name": "Phone Flatlay",
+      "emoji": "☕",
+      "category": "mockup",
+      "modifier": "top-down flatlay of a smartphone on a wooden desk, the screenshot on the screen, coffee cup and notebook beside it, natural window light, cozy workspace aesthetic"
+    },
+    {
+      "id": "phone-night-glow",
+      "name": "Phone Night Glow",
+      "emoji": "🌃",
+      "category": "mockup",
+      "modifier": "smartphone mockup at night, screen glowing with the screenshot, dark moody background with bokeh city lights, cinematic premium product shot, dramatic contrast"
+    },
+    {
+      "id": "phone-3d-float",
+      "name": "Phone 3D Float",
+      "emoji": "📐",
+      "category": "mockup",
+      "modifier": "3D rendered floating smartphone, the screenshot on the screen, dynamic tilted angle, soft realistic shadows, minimal pastel studio background, sleek tech aesthetic"
     }
   ]
 }
