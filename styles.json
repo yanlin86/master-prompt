@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "updated": "2026-10-15",
   "styles": [
     {
@@ -1009,6 +1009,13 @@
       "emoji": "🌑",
       "category": "mockup",
       "modifier": "premium 3D smartphone product render on dark background, the screenshot displayed on the glowing phone screen, phone shown at a slight angle, dramatic studio rim lighting, deep black backdrop, high-end tech advertisement aesthetic"
+    },
+    {
+      "id": "phone-front-view",
+      "name": "Phone Front View",
+      "emoji": "📲",
+      "category": "mockup",
+      "modifier": "single smartphone viewed straight from the front, the screenshot displayed full-screen on the display, perfectly centered frontal composition, dark studio background, soft even lighting, clean premium product photo, no tilt or angle"
     }
   ]
 }
