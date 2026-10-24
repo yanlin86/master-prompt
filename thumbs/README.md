@@ -110,3 +110,60 @@ upload the file to this folder the app picks it up on the next launch
 | `nat-spirit-festival` | 🌀 Nat Spirit Festival | myanmar |
 | `burmese-monsoon` | 🌧️ Burmese Monsoon | myanmar |
 | `burmese-village-life` | 🛖 Burmese Village Life | myanmar |
+| `natural-elegance` | 🌸 Natural Elegance | elegant-women |
+| `myanmar-royal-elegance` | 👑 Myanmar Royal Elegance | elegant-women |
+| `modern-chic-elegance` | ✨ Modern Chic Elegance | elegant-women |
+| `golden-hour-elegance` | 🌅 Golden Hour Elegance | elegant-women |
+| `studio-glamour-elegance` | 💎 Studio Glamour Elegance | elegant-women |
+| `thanaka-elegance` | 🌼 Thanaka Elegance | elegant-women |
+| `evening-gown-elegance` | 🌙 Evening Gown Elegance | elegant-women |
+| `floral-garden-elegance` | 🌷 Floral Garden Elegance | elegant-women |
+| `minimal-beauty-elegance` | 🤍 Minimal Beauty Elegance | elegant-women |
+| `cinematic-elegance` | 🎬 Cinematic Elegance | elegant-women |
+| `watercolor-elegance` | 🎨 Watercolor Elegance | elegant-women |
+| `vintage-glam-elegance` | 📷 Vintage Glam Elegance | elegant-women |
+| `street-style-elegance` | 👜 Street Style Elegance | elegant-women |
+| `bridal-myanmar-elegance` | 💒 Bridal Myanmar Elegance | elegant-women |
+| `professional-elegance` | 💼 Professional Elegance | elegant-women |
+| `festival-lights-elegance` | 🏮 Festival Lights Elegance | elegant-women |
+| `monsoon-romance-elegance` | 🌧️ Monsoon Romance Elegance | elegant-women |
+| `pagoda-serene-elegance` | 🛕 Pagoda Serene Elegance | elegant-women |
+| `silk-and-gold-elegance` | 🧵 Silk and Gold Elegance | elegant-women |
+| `morning-calm-elegance` | 🌄 Morning Calm Elegance | elegant-women |
+| `kpop-idol-girl` | 💄 K-pop Idol Girl | youth |
+| `douyin-beauty` | 📱 Douyin Beauty | youth |
+| `anime-girl` | 🌸 Anime Girl | youth |
+| `soft-girl` | 🎀 Soft Girl | youth |
+| `y2k-girl` | ✨ Y2K Girl | youth |
+| `coquette-girl` | 🧸 Coquette Girl | youth |
+| `streetwear-girl` | 🛹 Streetwear Girl | youth |
+| `fairy-core` | 🧚 Fairy Core | youth |
+| `princess-glam` | 👑 Princess Glam | youth |
+| `ulzzang-student` | 🎓 Ulzzang Student | youth |
+| `kpop-idol-boy` | 🎤 K-pop Idol Boy | youth |
+| `anime-boy` | ⚔️ Anime Boy | youth |
+| `streetwear-boy` | 🏀 Streetwear Boy | youth |
+| `esports-gamer` | 🎮 Esports Gamer | youth |
+| `footballer` | ⚽ Footballer | youth |
+| `biker-boy` | 🏍️ Biker Boy | youth |
+| `retro-cool` | 📼 Retro Cool | youth |
+| `rockstar` | 🎸 Rockstar | youth |
+| `thai-drama-star` | 🎭 Thai Drama Star | youth |
+| `dark-street` | 🖤 Dark Street | youth |
+| `gta-loading` | 🎮 GTA Loading Screen | trending |
+| `pixar-3d` | 🧸 Pixar 3D | trending |
+| `lego-figure` | 🟨 Lego Figure | trending |
+| `simpsons-style` | 📺 Simpsons Style | trending |
+| `clay-3d` | 🏺 Clay 3D | trending |
+| `wes-anderson` | 🎞️ Wes Anderson | trending |
+| `album-cover` | 💿 Album Cover | trending |
+| `barbiecore` | 💖 Barbiecore | trending |
+| `clean-girl` | 🧼 Clean Girl | trending |
+| `frutiger-aero` | 🫧 Frutiger Aero | trending |
+| `phone-mockup-studio` | 📱 Phone Mockup Studio | mockup |
+| `phone-in-hand` | 🤳 Phone In Hand | mockup |
+| `phone-flatlay` | ☕ Phone Flatlay | mockup |
+| `phone-night-glow` | 🌃 Phone Night Glow | mockup |
+| `phone-3d-float` | 📐 Phone 3D Float | mockup |
+| `phone-3d-dark` | 🌑 Phone 3D Dark | mockup |
+| `phone-front-view` | 📲 Phone Front View | mockup |
