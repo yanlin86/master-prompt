@@ -20,7 +20,7 @@ repo at launch, so styles can be added/edited here without rebuilding the APK.
 ```
 
 Built-in categories: `trending, cinematic, anime, vintage, fantasy,
-professional, artistic, myanmar`. A new `category` value also works — the app
+professional, artistic, myanmar, elegant-women, youth, mockup`. A new `category` value also works — the app
 picks it up automatically and shows a new tab.
 
 ## Preview images (thumbnails)
